@@ -6,4 +6,15 @@
 
 :desktop_computer:
 
-# Doświadczenie
+## ⚙️ Technical Experience
+-
+-
+-
+
+## 💬 Languages
+- **Polish**: Native
+- **English**: B1
+
+## 🎓 Education
+-
+-
