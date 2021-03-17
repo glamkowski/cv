@@ -1,3 +1,3 @@
 # Oskar Glamkowski
 *Software engineer*
-[link to Google!](http://google.com)
+[GIT](github.com/glamkowski) / [GIT](github.com/glamkowski)
