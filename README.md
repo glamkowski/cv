@@ -1,2 +1,2 @@
 # Oskar Glamkowski
-Opis oraz informacje o osobie
+*Software engineer*
